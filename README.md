@@ -1,5 +1,4 @@
 # ToDoListApp-Swift
-iOS Application to create a do list items
 <img width="391" alt="Screen Shot 2021-02-14 at 1 15 11 PM" src="https://user-images.githubusercontent.com/50755701/107873830-804c5c00-6ec6-11eb-812b-a329170c411b.png">
 
 # Main Storyboard:
